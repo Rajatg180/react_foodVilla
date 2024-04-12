@@ -1,0 +1,4 @@
+.parcel-cache
+node_modules
+
+# which is auto generated can be put in gitignore

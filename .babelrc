@@ -1,0 +1,5 @@
+// remove console log in code 
+
+{
+  // "plugins": [ ["transform-remove-console", { "exclude": [ "error", "warn"] }] ]
+}
